@@ -32,7 +32,7 @@ export const Footer: React.FC = () => {
                 Política de Privacidad
               </Link>
               <a 
-                href="https://wa.me/16404005688" 
+                href="https://wa.me/51976828556" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="transition-colors hover:text-emerald-400"
@@ -49,7 +49,7 @@ export const Footer: React.FC = () => {
                 <Twitter className="h-5 w-5" />
               </a>
               <a 
-                href="https://wa.me/16404005688" 
+                href="https://wa.me/51976828556" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-800 text-slate-400 transition-all hover:border-emerald-500/50 hover:text-emerald-400"
