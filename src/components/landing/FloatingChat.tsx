@@ -16,7 +16,7 @@ export const FloatingChat: React.FC = () => {
   const [showNotification, setShowNotification] = useState(false)
   
   // URL de WhatsApp con mensaje personalizado
-  const WHATSAPP_URL = "https://wa.me/16404005688?text=Hola!%20Me%20interesa%20una%20demo%20gratis%20de%20sus%20agentes%20de%20IA."
+  const WHATSAPP_URL = "https://wa.me/51976828556?text=Hola!%20Me%20interesa%20una%20demo%20gratis%20de%20sus%20agentes%20de%20IA."
 
   useEffect(() => {
     // Mostrar la notificación/mensaje después de 3 segundos para llamar la atención
