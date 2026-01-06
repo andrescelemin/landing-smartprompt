@@ -17,7 +17,7 @@ export const HeroSection: React.FC = () => {
 
   /** URL de WhatsApp con mensaje predefinido. */
   const WHATSAPP_URL =
-    'https://wa.me/16404005688?text=Hola!%20Vengo%20de%20la%20web%20y%20me%20gustaría%20información%20sobre%20los%20agentes%20de%20IA.'
+    'https://wa.me/51976828556?text=Hola!%20Vengo%20de%20la%20web%20y%20me%20gustaría%20información%20sobre%20los%20agentes%20de%20IA.'
 
   /**
    * Maneja el clic en el botón de demo y dispara evento al píxel de Meta si existe.
